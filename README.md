@@ -1,3 +1,16 @@
 # vpc-multiple-example
 
-About [#38](https://github.com/chengpeiquan/vue-picture-cropper/issues/38)
+Solution about [#38](https://github.com/chengpeiquan/vue-picture-cropper/issues/38) .
+
+## Usage
+
+Install dependencies and start the local service:
+
+```bash
+pnpm i
+pnpm dev
+```
+
+## Preview
+
+![preview](./public/preview.png)
